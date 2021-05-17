@@ -1,5 +1,5 @@
 {
-  "name": "react-breeze-test-task",
+  "name": "goit-react-hw-06-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alanor87/react-breeze-test-task.git"
+    "url": "git+https://github.com/alanor87/goit-react-hw-06-phonebook.git"
   },
-  "homepage": "https://alanor87.github.io/react-breeze-test-task",
+  "homepage": "https://alanor87.github.io/goit-react-hw-06-phonebook",
   "browserslist": {
     "production": [
       ">0.2%",
